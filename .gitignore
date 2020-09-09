@@ -1,0 +1,15 @@
+### Dependencies
+node_modules
+**/node_modules/**
+.yarn
+
+### Bundle
+dist
+**/dist/**
+
+### Temporary
+packages/api
+packages/mvc
+
+### JS
+**/*.js
